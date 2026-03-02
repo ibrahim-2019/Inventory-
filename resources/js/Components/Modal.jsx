@@ -5,6 +5,8 @@ import {
     TransitionChild,
 } from '@headlessui/react';
 
+import React from 'react';
+
 export default function Modal({
     children,
     show = false,

@@ -1,3 +1,5 @@
+import React from 'react';
+
 const STATS = [
   { val: '100%', lbl: 'دقة في التتبع' },
   { val: '+50',  lbl: 'نوع تقرير' },

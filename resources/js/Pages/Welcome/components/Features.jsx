@@ -1,3 +1,5 @@
+import React from 'react';
+
 const FEATURES = [
   { icon: 'fas fa-boxes',          title: 'إدارة المنتجات',   desc: 'تتبع جميع منتجاتك بتفاصيلها الكاملة من مكان واحد بسهولة.' },
   { icon: 'fas fa-warehouse',      title: 'تعدد المخازن',     desc: 'إدارة أكثر من مخزن في آنٍ واحد مع رؤية شاملة لكل موقع.' },
