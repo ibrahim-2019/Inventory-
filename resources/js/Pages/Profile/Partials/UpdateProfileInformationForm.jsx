@@ -3,6 +3,7 @@ import InputLabel from '@/Components/InputLabel';
 import PrimaryButton from '@/Components/PrimaryButton';
 import TextInput from '@/Components/TextInput';
 import { Transition } from '@headlessui/react';
+import React from 'react';
 import { Link, useForm, usePage } from '@inertiajs/react';
 
 export default function UpdateProfileInformation({

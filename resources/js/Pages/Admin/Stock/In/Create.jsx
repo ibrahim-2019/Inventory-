@@ -1,4 +1,5 @@
 import AdminLayout from '@/Layouts/AdminLayout';
+import React from 'react';
 import { Head, useForm, Link } from '@inertiajs/react';
 import { useState, useEffect } from 'react';
 

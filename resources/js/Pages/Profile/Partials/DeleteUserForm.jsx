@@ -4,6 +4,7 @@ import InputLabel from '@/Components/InputLabel';
 import Modal from '@/Components/Modal';
 import SecondaryButton from '@/Components/SecondaryButton';
 import TextInput from '@/Components/TextInput';
+import React from 'react';
 import { useForm } from '@inertiajs/react';
 import { useRef, useState } from 'react';
 

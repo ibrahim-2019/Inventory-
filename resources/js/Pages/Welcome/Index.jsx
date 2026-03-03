@@ -1,3 +1,4 @@
+import React from 'react';
 import { Head } from '@inertiajs/react';
 import { useEffect } from 'react';
 import './welcome.css';

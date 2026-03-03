@@ -1,3 +1,4 @@
+import React from 'react';
 import { Head, Link } from '@inertiajs/react';
 import AuthLayout from './Auth/AuthLayout';
 

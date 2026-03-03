@@ -1,3 +1,4 @@
+import React from 'react';
 import { Head, Link, useForm } from '@inertiajs/react';
 import AuthLayout, { Field } from './AuthLayout';
 

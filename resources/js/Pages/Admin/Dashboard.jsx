@@ -1,3 +1,4 @@
+import React from 'react';
 import AdminLayout from '@/Layouts/AdminLayout';
 import { Head } from '@inertiajs/react';
 import { StatCard }          from '@/Components/Admin/Dashboard/StatCard';
